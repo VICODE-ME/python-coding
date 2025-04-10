@@ -1,2 +1,2 @@
 # python-coding
-learning python-coding with VICODE-ME
+learn python-coding with VICODE-ME
